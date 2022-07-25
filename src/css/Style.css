@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #F195B2;
+  color: #fc5203;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #e85181;
+  color: #fc5203;
   text-decoration: underline;
 }
 
@@ -9525,7 +9525,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #F195B2 !important;
+  color: #fc5203 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9533,7 +9533,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #62C3E7 !important;
+  color: #294c5e !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -9549,7 +9549,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: #294c5e !important;
 }
 
 a.text-info:hover, a.text-info:focus {
@@ -9770,7 +9770,7 @@ h6,
   height: 50%;
   top: 0;
   left: 0;
-  background: #F195B2;
+  background: #fc5203;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -9783,7 +9783,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #F195B2;
+  color: #fc5203;
 }
 
 @media (max-width: 991.98px) {
